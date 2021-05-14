@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.container {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+
+.card {
+    width: 500px;
+}
+
+.card-main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
