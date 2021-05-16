@@ -85,13 +85,17 @@ header {
     margin-bottom: -20px;
 }
 
-h1, p {
+h2, p {
     color: var(--very-light-gray);
 }
 
-h1 {
+h2 {
     font-size: 22px;
     font-weight: 400;
     margin-bottom: -20px;
+}
+
+.h {
+    font-size: 22px;
 }
 
